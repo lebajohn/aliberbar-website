@@ -82,7 +82,7 @@ ul {
 
 /* HERO */
 .hero {
-  background: url('images/afro.jpg') no-repeat center/cover;
+  background: url('/frontend/images/afro.jpg') no-repeat center/cover;
   color: white;
   position: relative;
   text-align: center;
